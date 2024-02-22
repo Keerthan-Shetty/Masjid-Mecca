@@ -8,3 +8,5 @@ I have found this thing in my folder, to reminded me of those days where I have 
 So, I shared this because of my memory still exists.
 
 It is greater than 1024px screen ratio, not even responsive in mobile, tablet view.
+
+Link for this memory : https://keerthan-shetty.github.io/Masjid-Mecca/
