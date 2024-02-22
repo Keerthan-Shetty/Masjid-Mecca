@@ -7,6 +7,6 @@ I have done this design using basics of Html and Css with the position(As of kno
 I have found this thing in my folder, to reminded me of those days where I have starting learning.
 So, I shared this because of my memory still exists.
 
-It is greater than 1024px screen ratio, not even responsive in mobile, tablet view.
+It is only visible for greater than 1024px screen ratio, not even responsive in mobile or tablet view.
 
 Link for this memory : https://keerthan-shetty.github.io/Masjid-Mecca/
